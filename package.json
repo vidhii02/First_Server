@@ -1,0 +1,19 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "Our node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidhii02/First_Server.git"
+  },
+  "author": "Vidhi Kodarlikar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidhii02/First_Server/issues"
+  },
+  "homepage": "https://github.com/vidhii02/First_Server#readme"
+}
